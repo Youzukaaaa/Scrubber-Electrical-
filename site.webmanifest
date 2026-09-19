@@ -1,0 +1,15 @@
+{
+  "name": "بيتك أنظف",
+  "short_name": "بيتك أنظف",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf8f0",
+  "theme_color": "#1f4b35",
+  "icons": [
+    {
+      "src": "/assets/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
